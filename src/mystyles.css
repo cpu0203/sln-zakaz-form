@@ -1,0 +1,27 @@
+.formWrapper {
+  max-width: 960px;
+  background-color: #feffc2;
+}
+
+.formWrapper>* {
+  margin-bottom: 1rem;
+}
+
+.input_error {
+  padding-top: 0;
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  color: red;
+}
+
+.ur_form {
+  text-align: center;
+  padding-bottom: 1rem;
+}
+
+.ur_form_title {
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
